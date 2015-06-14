@@ -2,11 +2,11 @@ package com.yiyilabs;
 
 import com.github.javafaker.Faker;
 
-public class Person {
+public class PersonGenerator {
 
 	private static final Faker FAKER = new Faker();
 
-	public Person() {
+	public PersonGenerator() {
 		super();
 		// TODO Auto-generated constructor stub
 	}
